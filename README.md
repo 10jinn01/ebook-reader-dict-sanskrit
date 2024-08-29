@@ -3,7 +3,7 @@
 ## Purpose
 - Make Sanskrit Wiktionary in a dictionary format with etymology info.
 ## Reference
-- [Wiktionary with etymology but no Sanskrit]([url](https://github.com/Vuizur/Wiktionary-Dictionaries/blob/master/Sanskrit-English%20Wiktionary%20dictionary%20stardict.tar.gz))
+- [Wiktionary with etymology but no Sanskrit]([https://github.com/Vuizur/Wiktionary-Dictionaries/blob/master/Sanskrit-English%20Wiktionary%20dictionary%20stardict.tar.gz])
 - [Wiktionary without etymology but Sanskrit (This repo)]([url](https://github.com/BoboTiG/ebook-reader-dict))
 
 ## Backlog
