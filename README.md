@@ -1,3 +1,19 @@
+# Sanskrit with Etymology Folk
+
+## Purpose
+- Make Sanskrit Wiktionary in a dictionary format with etymology info.
+## Reference
+- [Wiktionary with etymology but no Sanskrit]([url](https://github.com/Vuizur/Wiktionary-Dictionaries/blob/master/Sanskrit-English%20Wiktionary%20dictionary%20stardict.tar.gz))
+- [Wiktionary without etymology but Sanskrit (This repo)]([url](https://github.com/BoboTiG/ebook-reader-dict))
+
+## Backlog
+- Share this repo with other developers and check if this format of sharing info is helpful.
+
+
+
+
+
+
 # eBook Reader Dictionaries
 
 [![Update dictionaries](https://github.com/BoboTiG/ebook-reader-dict/workflows/Update%20dictionaries/badge.svg)](https://github.com/BoboTiG/ebook-reader-dict/actions?query=workflow%3A%22Update+dictionaries%22) [![Update local-specific data](https://github.com/BoboTiG/ebook-reader-dict/actions/workflows/auto-update-data.yml/badge.svg)](https://github.com/BoboTiG/ebook-reader-dict/actions/workflows/auto-update-data.yml) [![Word of the day](https://github.com/BoboTiG/ebook-reader-dict/actions/workflows/daily.yml/badge.svg)](https://github.com/BoboTiG/ebook-reader-dict/actions/workflows/daily.yml)
